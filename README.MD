@@ -71,7 +71,7 @@ Utilize os prompts dentro do desse mesmo repositório fornecido na parte de `pro
       width=80 
       src="https://avatars.githubusercontent.com/u/48953925?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspRafael Varela<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/RafaCVarela">
